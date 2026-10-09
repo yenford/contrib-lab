@@ -5,3 +5,4 @@
 - note 9: the retry section mirrors the code (2026-10-10T00:05:11)
 - note 11: keep the titles in sentence case (2026-10-10T00:05:26)
 - note 13: paths in examples stay relative (2026-10-10T00:05:41)
+- note 15: temporary notes are pruned weekly (2026-10-10T00:05:56)
