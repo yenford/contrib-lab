@@ -2,3 +2,4 @@
 - note 3: keep the titles in sentence case (2026-10-10T00:04:19)
 - note 5: keep the documented order (2026-10-10T00:04:35)
 - note 7: the checklist mirrors the test matrix (2026-10-10T00:04:57)
+- note 9: the retry section mirrors the code (2026-10-10T00:05:11)
